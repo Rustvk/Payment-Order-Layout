@@ -1,6 +1,10 @@
-<h1>Тестовое задание</h1>
-<h3>Валидная верстка документа с использованием медиа запросов для обеспечения адаптивности и Javascript для управления элементами</h3>
-<p>В файлах проекта присутствуют исходники SASS файлов.</p>
-<p>Изначально для выполнения задачи использовался Bootstrap, но конкретно в данном случае это было неоправданно, поэтому он был удален.</p>
-<p>Также задействована библиотека JQuery, для написания некоторых обработчиков событий.</p> 
-<p>Шрифт Roboto и JQuery подключены по CDN</p>
+<h1 align="center">Payment order layout</h1>
+<p align="center">
+  Layout made by media queries for responsiveness and Jquery for elements control
+  <br>
+  <a href="https://rustvk.github.io/Payment-Order-Layout/"><strong>Demo Page</strong></a>
+</p>
+
+* SASS
+* JQuery by CDN
+* Roboto font by CDN
